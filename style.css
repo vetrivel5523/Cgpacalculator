@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 10px;
-    padding-top: 20px;
+    padding-top: 5px;
     background-color: #6b9ecb;
 }
 
@@ -34,7 +34,7 @@ header {
 }
 
 main {
-    padding: 20px;
+    padding: 10px;
 }
 
 .card-content {
@@ -42,12 +42,12 @@ main {
 }
 
 .input-section {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 label {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
 
 select {
@@ -106,4 +106,9 @@ td {
     padding: 10px;
     border-radius: 5px;
     text-align: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
 }
