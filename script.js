@@ -99,814 +99,815 @@ var subjectsData = {
                 { subject: "VLSI Design Laboratory", creditPoints: 3 }
             ]
         }
-    },
-    "CSE": {
-        "1": {
-            "1": [
-                { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
-                { subject: "Engineering Chemistry", creditPoints: 3 },
-                { subject: "English for Effective Communication	", creditPoints: 1 },
-                { subject: "Technical English-I", creditPoints: 3 },
-                { subject: "Structured Programming Using C", creditPoints: 3 },
-                { subject: "Engineering Graphics", creditPoints: 3 },
-                { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-I", creditPoints: 4 },
-                { subject: "Engineering Physics", creditPoints: 3 }
-            ],
-            "2": [
-                { subject: "Environmental Science", creditPoints: 3 },
-                { subject: "Semiconductor Devices", creditPoints: 3 },
-                { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
-                { subject: "Electric Circuit Analysis", creditPoints: 3 },
-                { subject: "Soft Skills", creditPoints: 1 },
-                { subject: "Technical English-II", creditPoints: 3 },
-                { subject: "Engineering Practices Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-II", creditPoints: 4 },
-                { subject: "Applied Physics", creditPoints: 3 }
-            ]
-        },
-        "2": {
-            "3": [
-                { subject: "Electronic Circuits - I", creditPoints: 3 },
-                { subject: "Digital Electronics", creditPoints: 3 },
-                { subject: "Signals and Systems", creditPoints: 4 },
-                { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
-                { subject: "Soft Skills Development", creditPoints: 1 },
-                { subject: "C++ and Data Structures", creditPoints: 3 },
-                { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
-                { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
-                { subject: "Constitution of India", creditPoints: 0 },
-                { subject: "Design of Applications in IoT", creditPoints: 0 }
-            ],
-            "4": [
-                { subject: "Electronic Circuits - II", creditPoints: 3 },
-                { subject: "Linear Integrated Circuits", creditPoints: 3 },
-                { subject: "Communication Theory", creditPoints: 3 },
-                { subject: "Control System Engineering", creditPoints: 3 },
-                { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
-                { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
-                { subject: "Electromagnetic Fields", creditPoints: 3 },
-                { subject: "Life Skills and Personality Development", creditPoints: 1 },
-                { subject: "Probability and Random Processes", creditPoints: 4 }
-            ]
-        },
-        "3": {
-            "5": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "6": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        },
-        "4": {
-            "7": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "8": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        }
-    },
-    "IT": {
-        "1": {
-            "1": [
-                { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
-                { subject: "Engineering Chemistry", creditPoints: 3 },
-                { subject: "English for Effective Communication	", creditPoints: 1 },
-                { subject: "Technical English-I", creditPoints: 3 },
-                { subject: "Structured Programming Using C", creditPoints: 3 },
-                { subject: "Engineering Graphics", creditPoints: 3 },
-                { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-I", creditPoints: 4 },
-                { subject: "Engineering Physics", creditPoints: 3 }
-            ],
-            "2": [
-                { subject: "Environmental Science", creditPoints: 3 },
-                { subject: "Semiconductor Devices", creditPoints: 3 },
-                { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
-                { subject: "Electric Circuit Analysis", creditPoints: 3 },
-                { subject: "Soft Skills", creditPoints: 1 },
-                { subject: "Technical English-II", creditPoints: 3 },
-                { subject: "Engineering Practices Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-II", creditPoints: 4 },
-                { subject: "Applied Physics", creditPoints: 3 }
-            ]
-        },
-        "2": {
-            "3": [
-                { subject: "Electronic Circuits - I", creditPoints: 3 },
-                { subject: "Digital Electronics", creditPoints: 3 },
-                { subject: "Signals and Systems", creditPoints: 4 },
-                { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
-                { subject: "Soft Skills Development", creditPoints: 1 },
-                { subject: "C++ and Data Structures", creditPoints: 3 },
-                { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
-                { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
-                { subject: "Constitution of India", creditPoints: 0 },
-                { subject: "Design of Applications in IoT", creditPoints: 0 }
-            ],
-            "4": [
-                { subject: "Electronic Circuits - II", creditPoints: 3 },
-                { subject: "Linear Integrated Circuits", creditPoints: 3 },
-                { subject: "Communication Theory", creditPoints: 3 },
-                { subject: "Control System Engineering", creditPoints: 3 },
-                { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
-                { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
-                { subject: "Electromagnetic Fields", creditPoints: 3 },
-                { subject: "Life Skills and Personality Development", creditPoints: 1 },
-                { subject: "Probability and Random Processes", creditPoints: 4 }
-            ]
-        },
-        "3": {
-            "5": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "6": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        },
-        "4": {
-            "7": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "8": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        }
-    },
-    "AD": {
-        "1": {
-            "1": [
-                { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
-                { subject: "Engineering Chemistry", creditPoints: 3 },
-                { subject: "English for Effective Communication	", creditPoints: 1 },
-                { subject: "Technical English-I", creditPoints: 3 },
-                { subject: "Structured Programming Using C", creditPoints: 3 },
-                { subject: "Engineering Graphics", creditPoints: 3 },
-                { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-I", creditPoints: 4 },
-                { subject: "Engineering Physics", creditPoints: 3 }
-            ],
-            "2": [
-                { subject: "Environmental Science", creditPoints: 3 },
-                { subject: "Semiconductor Devices", creditPoints: 3 },
-                { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
-                { subject: "Electric Circuit Analysis", creditPoints: 3 },
-                { subject: "Soft Skills", creditPoints: 1 },
-                { subject: "Technical English-II", creditPoints: 3 },
-                { subject: "Engineering Practices Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-II", creditPoints: 4 },
-                { subject: "Applied Physics", creditPoints: 3 }
-            ]
-        },
-        "2": {
-            "3": [
-                { subject: "Electronic Circuits - I", creditPoints: 3 },
-                { subject: "Digital Electronics", creditPoints: 3 },
-                { subject: "Signals and Systems", creditPoints: 4 },
-                { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
-                { subject: "Soft Skills Development", creditPoints: 1 },
-                { subject: "C++ and Data Structures", creditPoints: 3 },
-                { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
-                { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
-                { subject: "Constitution of India", creditPoints: 0 },
-                { subject: "Design of Applications in IoT", creditPoints: 0 }
-            ],
-            "4": [
-                { subject: "Electronic Circuits - II", creditPoints: 3 },
-                { subject: "Linear Integrated Circuits", creditPoints: 3 },
-                { subject: "Communication Theory", creditPoints: 3 },
-                { subject: "Control System Engineering", creditPoints: 3 },
-                { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
-                { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
-                { subject: "Electromagnetic Fields", creditPoints: 3 },
-                { subject: "Life Skills and Personality Development", creditPoints: 1 },
-                { subject: "Probability and Random Processes", creditPoints: 4 }
-            ]
-        },
-        "3": {
-            "5": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "6": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        },
-        "4": {
-            "7": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "8": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        }
-    },
-    "EEE": {
-        "1": {
-            "1": [
-                { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
-                { subject: "Engineering Chemistry", creditPoints: 3 },
-                { subject: "English for Effective Communication	", creditPoints: 1 },
-                { subject: "Technical English-I", creditPoints: 3 },
-                { subject: "Structured Programming Using C", creditPoints: 3 },
-                { subject: "Engineering Graphics", creditPoints: 3 },
-                { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-I", creditPoints: 4 },
-                { subject: "Engineering Physics", creditPoints: 3 }
-            ],
-            "2": [
-                { subject: "Environmental Science", creditPoints: 3 },
-                { subject: "Semiconductor Devices", creditPoints: 3 },
-                { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
-                { subject: "Electric Circuit Analysis", creditPoints: 3 },
-                { subject: "Soft Skills", creditPoints: 1 },
-                { subject: "Technical English-II", creditPoints: 3 },
-                { subject: "Engineering Practices Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-II", creditPoints: 4 },
-                { subject: "Applied Physics", creditPoints: 3 }
-            ]
-        },
-        "2": {
-            "3": [
-                { subject: "Electronic Circuits - I", creditPoints: 3 },
-                { subject: "Digital Electronics", creditPoints: 3 },
-                { subject: "Signals and Systems", creditPoints: 4 },
-                { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
-                { subject: "Soft Skills Development", creditPoints: 1 },
-                { subject: "C++ and Data Structures", creditPoints: 3 },
-                { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
-                { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
-                { subject: "Constitution of India", creditPoints: 0 },
-                { subject: "Design of Applications in IoT", creditPoints: 0 }
-            ],
-            "4": [
-                { subject: "Electronic Circuits - II", creditPoints: 3 },
-                { subject: "Linear Integrated Circuits", creditPoints: 3 },
-                { subject: "Communication Theory", creditPoints: 3 },
-                { subject: "Control System Engineering", creditPoints: 3 },
-                { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
-                { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
-                { subject: "Electromagnetic Fields", creditPoints: 3 },
-                { subject: "Life Skills and Personality Development", creditPoints: 1 },
-                { subject: "Probability and Random Processes", creditPoints: 4 }
-            ]
-        },
-        "3": {
-            "5": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "6": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        },
-        "4": {
-            "7": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "8": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        }
-    },
-    "BME": {
-        "1": {
-            "1": [
-                { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
-                { subject: "Engineering Chemistry", creditPoints: 3 },
-                { subject: "English for Effective Communication	", creditPoints: 1 },
-                { subject: "Technical English-I", creditPoints: 3 },
-                { subject: "Structured Programming Using C", creditPoints: 3 },
-                { subject: "Engineering Graphics", creditPoints: 3 },
-                { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-I", creditPoints: 4 },
-                { subject: "Engineering Physics", creditPoints: 3 }
-            ],
-            "2": [
-                { subject: "Environmental Science", creditPoints: 3 },
-                { subject: "Semiconductor Devices", creditPoints: 3 },
-                { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
-                { subject: "Electric Circuit Analysis", creditPoints: 3 },
-                { subject: "Soft Skills", creditPoints: 1 },
-                { subject: "Technical English-II", creditPoints: 3 },
-                { subject: "Engineering Practices Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-II", creditPoints: 4 },
-                { subject: "Applied Physics", creditPoints: 3 }
-            ]
-        },
-        "2": {
-            "3": [
-                { subject: "Electronic Circuits - I", creditPoints: 3 },
-                { subject: "Digital Electronics", creditPoints: 3 },
-                { subject: "Signals and Systems", creditPoints: 4 },
-                { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
-                { subject: "Soft Skills Development", creditPoints: 1 },
-                { subject: "C++ and Data Structures", creditPoints: 3 },
-                { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
-                { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
-                { subject: "Constitution of India", creditPoints: 0 },
-                { subject: "Design of Applications in IoT", creditPoints: 0 }
-            ],
-            "4": [
-                { subject: "Electronic Circuits - II", creditPoints: 3 },
-                { subject: "Linear Integrated Circuits", creditPoints: 3 },
-                { subject: "Communication Theory", creditPoints: 3 },
-                { subject: "Control System Engineering", creditPoints: 3 },
-                { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
-                { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
-                { subject: "Electromagnetic Fields", creditPoints: 3 },
-                { subject: "Life Skills and Personality Development", creditPoints: 1 },
-                { subject: "Probability and Random Processes", creditPoints: 4 }
-            ]
-        },
-        "3": {
-            "5": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "6": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        },
-        "4": {
-            "7": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "8": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        }
-    },
-    "AGRI": {
-        "1": {
-            "1": [
-                { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
-                { subject: "Engineering Chemistry", creditPoints: 3 },
-                { subject: "English for Effective Communication	", creditPoints: 1 },
-                { subject: "Technical English-I", creditPoints: 3 },
-                { subject: "Structured Programming Using C", creditPoints: 3 },
-                { subject: "Engineering Graphics", creditPoints: 3 },
-                { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-I", creditPoints: 4 },
-                { subject: "Engineering Physics", creditPoints: 3 }
-            ],
-            "2": [
-                { subject: "Environmental Science", creditPoints: 3 },
-                { subject: "Semiconductor Devices", creditPoints: 3 },
-                { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
-                { subject: "Electric Circuit Analysis", creditPoints: 3 },
-                { subject: "Soft Skills", creditPoints: 1 },
-                { subject: "Technical English-II", creditPoints: 3 },
-                { subject: "Engineering Practices Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-II", creditPoints: 4 },
-                { subject: "Applied Physics", creditPoints: 3 }
-            ]
-        },
-        "2": {
-            "3": [
-                { subject: "Electronic Circuits - I", creditPoints: 3 },
-                { subject: "Digital Electronics", creditPoints: 3 },
-                { subject: "Signals and Systems", creditPoints: 4 },
-                { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
-                { subject: "Soft Skills Development", creditPoints: 1 },
-                { subject: "C++ and Data Structures", creditPoints: 3 },
-                { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
-                { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
-                { subject: "Constitution of India", creditPoints: 0 },
-                { subject: "Design of Applications in IoT", creditPoints: 0 }
-            ],
-            "4": [
-                { subject: "Electronic Circuits - II", creditPoints: 3 },
-                { subject: "Linear Integrated Circuits", creditPoints: 3 },
-                { subject: "Communication Theory", creditPoints: 3 },
-                { subject: "Control System Engineering", creditPoints: 3 },
-                { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
-                { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
-                { subject: "Electromagnetic Fields", creditPoints: 3 },
-                { subject: "Life Skills and Personality Development", creditPoints: 1 },
-                { subject: "Probability and Random Processes", creditPoints: 4 }
-            ]
-        },
-        "3": {
-            "5": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "6": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        },
-        "4": {
-            "7": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "8": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        }
-    },
-    "MECH": {
-        "1": {
-            "1": [
-                { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
-                { subject: "Engineering Chemistry", creditPoints: 3 },
-                { subject: "English for Effective Communication	", creditPoints: 1 },
-                { subject: "Technical English-I", creditPoints: 3 },
-                { subject: "Structured Programming Using C", creditPoints: 3 },
-                { subject: "Engineering Graphics", creditPoints: 3 },
-                { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-I", creditPoints: 4 },
-                { subject: "Engineering Physics", creditPoints: 3 }
-            ],
-            "2": [
-                { subject: "Environmental Science", creditPoints: 3 },
-                { subject: "Semiconductor Devices", creditPoints: 3 },
-                { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
-                { subject: "Electric Circuit Analysis", creditPoints: 3 },
-                { subject: "Soft Skills", creditPoints: 1 },
-                { subject: "Technical English-II", creditPoints: 3 },
-                { subject: "Engineering Practices Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-II", creditPoints: 4 },
-                { subject: "Applied Physics", creditPoints: 3 }
-            ]
-        },
-        "2": {
-            "3": [
-                { subject: "Electronic Circuits - I", creditPoints: 3 },
-                { subject: "Digital Electronics", creditPoints: 3 },
-                { subject: "Signals and Systems", creditPoints: 4 },
-                { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
-                { subject: "Soft Skills Development", creditPoints: 1 },
-                { subject: "C++ and Data Structures", creditPoints: 3 },
-                { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
-                { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
-                { subject: "Constitution of India", creditPoints: 0 },
-                { subject: "Design of Applications in IoT", creditPoints: 0 }
-            ],
-            "4": [
-                { subject: "Electronic Circuits - II", creditPoints: 3 },
-                { subject: "Linear Integrated Circuits", creditPoints: 3 },
-                { subject: "Communication Theory", creditPoints: 3 },
-                { subject: "Control System Engineering", creditPoints: 3 },
-                { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
-                { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
-                { subject: "Electromagnetic Fields", creditPoints: 3 },
-                { subject: "Life Skills and Personality Development", creditPoints: 1 },
-                { subject: "Probability and Random Processes", creditPoints: 4 }
-            ]
-        },
-        "3": {
-            "5": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "6": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        },
-        "4": {
-            "7": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "8": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        }
-    },
-    "CIVIL": {
-        "1": {
-            "1": [
-                { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
-                { subject: "Engineering Chemistry", creditPoints: 3 },
-                { subject: "English for Effective Communication	", creditPoints: 1 },
-                { subject: "Technical English-I", creditPoints: 3 },
-                { subject: "Structured Programming Using C", creditPoints: 3 },
-                { subject: "Engineering Graphics", creditPoints: 3 },
-                { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-I", creditPoints: 4 },
-                { subject: "Engineering Physics", creditPoints: 3 }
-            ],
-            "2": [
-                { subject: "Environmental Science", creditPoints: 3 },
-                { subject: "Semiconductor Devices", creditPoints: 3 },
-                { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
-                { subject: "Electric Circuit Analysis", creditPoints: 3 },
-                { subject: "Soft Skills", creditPoints: 1 },
-                { subject: "Technical English-II", creditPoints: 3 },
-                { subject: "Engineering Practices Laboratory", creditPoints: 1 },
-                { subject: "Mathematics-II", creditPoints: 4 },
-                { subject: "Applied Physics", creditPoints: 3 }
-            ]
-        },
-        "2": {
-            "3": [
-                { subject: "Electronic Circuits - I", creditPoints: 3 },
-                { subject: "Digital Electronics", creditPoints: 3 },
-                { subject: "Signals and Systems", creditPoints: 4 },
-                { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
-                { subject: "Soft Skills Development", creditPoints: 1 },
-                { subject: "C++ and Data Structures", creditPoints: 3 },
-                { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
-                { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
-                { subject: "Constitution of India", creditPoints: 0 },
-                { subject: "Design of Applications in IoT", creditPoints: 0 }
-            ],
-            "4": [
-                { subject: "Electronic Circuits - II", creditPoints: 3 },
-                { subject: "Linear Integrated Circuits", creditPoints: 3 },
-                { subject: "Communication Theory", creditPoints: 3 },
-                { subject: "Control System Engineering", creditPoints: 3 },
-                { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
-                { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
-                { subject: "Electromagnetic Fields", creditPoints: 3 },
-                { subject: "Life Skills and Personality Development", creditPoints: 1 },
-                { subject: "Probability and Random Processes", creditPoints: 4 }
-            ]
-        },
-        "3": {
-            "5": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "6": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        },
-        "4": {
-            "7": [
-                { subject: "Digital Communication", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
-                { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
-                { subject: "Internet of Things", creditPoints: 3 },
-                { subject: "Digital Signal Processing", creditPoints: 4 },
-                { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
-                { subject: "Mini Project-I", creditPoints: 1 },
-                { subject: "Professional Skills Development", creditPoints: 1 },
-                { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
-            ],
-            "8": [
-                { subject: "Antenna and Wave Propagation", creditPoints: 3 },
-                { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
-                { subject: "Computer Networks", creditPoints: 3 },
-                { subject: "Digital Image Processing Techniques", creditPoints: 3 },
-                { subject: "Employability Skills", creditPoints: 1 },
-                { subject: "Mini Project-II", creditPoints: 1 },
-                { subject: "Networks Laboratory", creditPoints: 1 },
-                { subject: "Principles of Management", creditPoints: 3 },
-                { subject: "VLSI Design", creditPoints: 3 },
-                { subject: "VLSI Design Laboratory", creditPoints: 3 }
-            ]
-        }
+        // },
+        // "CSE": {
+        //     "1": {
+        //         "1": [
+        //             { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
+        //             { subject: "Engineering Chemistry", creditPoints: 3 },
+        //             { subject: "English for Effective Communication	", creditPoints: 1 },
+        //             { subject: "Technical English-I", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C", creditPoints: 3 },
+        //             { subject: "Engineering Graphics", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-I", creditPoints: 4 },
+        //             { subject: "Engineering Physics", creditPoints: 3 }
+        //         ],
+        //         "2": [
+        //             { subject: "Environmental Science", creditPoints: 3 },
+        //             { subject: "Semiconductor Devices", creditPoints: 3 },
+        //             { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
+        //             { subject: "Electric Circuit Analysis", creditPoints: 3 },
+        //             { subject: "Soft Skills", creditPoints: 1 },
+        //             { subject: "Technical English-II", creditPoints: 3 },
+        //             { subject: "Engineering Practices Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-II", creditPoints: 4 },
+        //             { subject: "Applied Physics", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "2": {
+        //         "3": [
+        //             { subject: "Electronic Circuits - I", creditPoints: 3 },
+        //             { subject: "Digital Electronics", creditPoints: 3 },
+        //             { subject: "Signals and Systems", creditPoints: 4 },
+        //             { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Soft Skills Development", creditPoints: 1 },
+        //             { subject: "C++ and Data Structures", creditPoints: 3 },
+        //             { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
+        //             { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
+        //             { subject: "Constitution of India", creditPoints: 0 },
+        //             { subject: "Design of Applications in IoT", creditPoints: 0 }
+        //         ],
+        //         "4": [
+        //             { subject: "Electronic Circuits - II", creditPoints: 3 },
+        //             { subject: "Linear Integrated Circuits", creditPoints: 3 },
+        //             { subject: "Communication Theory", creditPoints: 3 },
+        //             { subject: "Control System Engineering", creditPoints: 3 },
+        //             { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
+        //             { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Electromagnetic Fields", creditPoints: 3 },
+        //             { subject: "Life Skills and Personality Development", creditPoints: 1 },
+        //             { subject: "Probability and Random Processes", creditPoints: 4 }
+        //         ]
+        //     },
+        //     "3": {
+        //         "5": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "6": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "4": {
+        //         "7": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "8": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     }
+        // },
+        // "IT": {
+        //     "1": {
+        //         "1": [
+        //             { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
+        //             { subject: "Engineering Chemistry", creditPoints: 3 },
+        //             { subject: "English for Effective Communication	", creditPoints: 1 },
+        //             { subject: "Technical English-I", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C", creditPoints: 3 },
+        //             { subject: "Engineering Graphics", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-I", creditPoints: 4 },
+        //             { subject: "Engineering Physics", creditPoints: 3 }
+        //         ],
+        //         "2": [
+        //             { subject: "Environmental Science", creditPoints: 3 },
+        //             { subject: "Semiconductor Devices", creditPoints: 3 },
+        //             { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
+        //             { subject: "Electric Circuit Analysis", creditPoints: 3 },
+        //             { subject: "Soft Skills", creditPoints: 1 },
+        //             { subject: "Technical English-II", creditPoints: 3 },
+        //             { subject: "Engineering Practices Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-II", creditPoints: 4 },
+        //             { subject: "Applied Physics", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "2": {
+        //         "3": [
+        //             { subject: "Electronic Circuits - I", creditPoints: 3 },
+        //             { subject: "Digital Electronics", creditPoints: 3 },
+        //             { subject: "Signals and Systems", creditPoints: 4 },
+        //             { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Soft Skills Development", creditPoints: 1 },
+        //             { subject: "C++ and Data Structures", creditPoints: 3 },
+        //             { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
+        //             { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
+        //             { subject: "Constitution of India", creditPoints: 0 },
+        //             { subject: "Design of Applications in IoT", creditPoints: 0 }
+        //         ],
+        //         "4": [
+        //             { subject: "Electronic Circuits - II", creditPoints: 3 },
+        //             { subject: "Linear Integrated Circuits", creditPoints: 3 },
+        //             { subject: "Communication Theory", creditPoints: 3 },
+        //             { subject: "Control System Engineering", creditPoints: 3 },
+        //             { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
+        //             { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Electromagnetic Fields", creditPoints: 3 },
+        //             { subject: "Life Skills and Personality Development", creditPoints: 1 },
+        //             { subject: "Probability and Random Processes", creditPoints: 4 }
+        //         ]
+        //     },
+        //     "3": {
+        //         "5": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "6": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "4": {
+        //         "7": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "8": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     }
+        // },
+        // "AD": {
+        //     "1": {
+        //         "1": [
+        //             { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
+        //             { subject: "Engineering Chemistry", creditPoints: 3 },
+        //             { subject: "English for Effective Communication	", creditPoints: 1 },
+        //             { subject: "Technical English-I", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C", creditPoints: 3 },
+        //             { subject: "Engineering Graphics", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-I", creditPoints: 4 },
+        //             { subject: "Engineering Physics", creditPoints: 3 }
+        //         ],
+        //         "2": [
+        //             { subject: "Environmental Science", creditPoints: 3 },
+        //             { subject: "Semiconductor Devices", creditPoints: 3 },
+        //             { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
+        //             { subject: "Electric Circuit Analysis", creditPoints: 3 },
+        //             { subject: "Soft Skills", creditPoints: 1 },
+        //             { subject: "Technical English-II", creditPoints: 3 },
+        //             { subject: "Engineering Practices Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-II", creditPoints: 4 },
+        //             { subject: "Applied Physics", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "2": {
+        //         "3": [
+        //             { subject: "Electronic Circuits - I", creditPoints: 3 },
+        //             { subject: "Digital Electronics", creditPoints: 3 },
+        //             { subject: "Signals and Systems", creditPoints: 4 },
+        //             { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Soft Skills Development", creditPoints: 1 },
+        //             { subject: "C++ and Data Structures", creditPoints: 3 },
+        //             { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
+        //             { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
+        //             { subject: "Constitution of India", creditPoints: 0 },
+        //             { subject: "Design of Applications in IoT", creditPoints: 0 }
+        //         ],
+        //         "4": [
+        //             { subject: "Electronic Circuits - II", creditPoints: 3 },
+        //             { subject: "Linear Integrated Circuits", creditPoints: 3 },
+        //             { subject: "Communication Theory", creditPoints: 3 },
+        //             { subject: "Control System Engineering", creditPoints: 3 },
+        //             { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
+        //             { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Electromagnetic Fields", creditPoints: 3 },
+        //             { subject: "Life Skills and Personality Development", creditPoints: 1 },
+        //             { subject: "Probability and Random Processes", creditPoints: 4 }
+        //         ]
+        //     },
+        //     "3": {
+        //         "5": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "6": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "4": {
+        //         "7": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "8": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     }
+        // },
+        // "EEE": {
+        //     "1": {
+        //         "1": [
+        //             { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
+        //             { subject: "Engineering Chemistry", creditPoints: 3 },
+        //             { subject: "English for Effective Communication	", creditPoints: 1 },
+        //             { subject: "Technical English-I", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C", creditPoints: 3 },
+        //             { subject: "Engineering Graphics", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-I", creditPoints: 4 },
+        //             { subject: "Engineering Physics", creditPoints: 3 }
+        //         ],
+        //         "2": [
+        //             { subject: "Environmental Science", creditPoints: 3 },
+        //             { subject: "Semiconductor Devices", creditPoints: 3 },
+        //             { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
+        //             { subject: "Electric Circuit Analysis", creditPoints: 3 },
+        //             { subject: "Soft Skills", creditPoints: 1 },
+        //             { subject: "Technical English-II", creditPoints: 3 },
+        //             { subject: "Engineering Practices Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-II", creditPoints: 4 },
+        //             { subject: "Applied Physics", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "2": {
+        //         "3": [
+        //             { subject: "Electronic Circuits - I", creditPoints: 3 },
+        //             { subject: "Digital Electronics", creditPoints: 3 },
+        //             { subject: "Signals and Systems", creditPoints: 4 },
+        //             { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Soft Skills Development", creditPoints: 1 },
+        //             { subject: "C++ and Data Structures", creditPoints: 3 },
+        //             { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
+        //             { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
+        //             { subject: "Constitution of India", creditPoints: 0 },
+        //             { subject: "Design of Applications in IoT", creditPoints: 0 }
+        //         ],
+        //         "4": [
+        //             { subject: "Electronic Circuits - II", creditPoints: 3 },
+        //             { subject: "Linear Integrated Circuits", creditPoints: 3 },
+        //             { subject: "Communication Theory", creditPoints: 3 },
+        //             { subject: "Control System Engineering", creditPoints: 3 },
+        //             { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
+        //             { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Electromagnetic Fields", creditPoints: 3 },
+        //             { subject: "Life Skills and Personality Development", creditPoints: 1 },
+        //             { subject: "Probability and Random Processes", creditPoints: 4 }
+        //         ]
+        //     },
+        //     "3": {
+        //         "5": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "6": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "4": {
+        //         "7": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "8": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     }
+        // },
+        // "BME": {
+        //     "1": {
+        //         "1": [
+        //             { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
+        //             { subject: "Engineering Chemistry", creditPoints: 3 },
+        //             { subject: "English for Effective Communication	", creditPoints: 1 },
+        //             { subject: "Technical English-I", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C", creditPoints: 3 },
+        //             { subject: "Engineering Graphics", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-I", creditPoints: 4 },
+        //             { subject: "Engineering Physics", creditPoints: 3 }
+        //         ],
+        //         "2": [
+        //             { subject: "Environmental Science", creditPoints: 3 },
+        //             { subject: "Semiconductor Devices", creditPoints: 3 },
+        //             { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
+        //             { subject: "Electric Circuit Analysis", creditPoints: 3 },
+        //             { subject: "Soft Skills", creditPoints: 1 },
+        //             { subject: "Technical English-II", creditPoints: 3 },
+        //             { subject: "Engineering Practices Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-II", creditPoints: 4 },
+        //             { subject: "Applied Physics", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "2": {
+        //         "3": [
+        //             { subject: "Electronic Circuits - I", creditPoints: 3 },
+        //             { subject: "Digital Electronics", creditPoints: 3 },
+        //             { subject: "Signals and Systems", creditPoints: 4 },
+        //             { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Soft Skills Development", creditPoints: 1 },
+        //             { subject: "C++ and Data Structures", creditPoints: 3 },
+        //             { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
+        //             { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
+        //             { subject: "Constitution of India", creditPoints: 0 },
+        //             { subject: "Design of Applications in IoT", creditPoints: 0 }
+        //         ],
+        //         "4": [
+        //             { subject: "Electronic Circuits - II", creditPoints: 3 },
+        //             { subject: "Linear Integrated Circuits", creditPoints: 3 },
+        //             { subject: "Communication Theory", creditPoints: 3 },
+        //             { subject: "Control System Engineering", creditPoints: 3 },
+        //             { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
+        //             { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Electromagnetic Fields", creditPoints: 3 },
+        //             { subject: "Life Skills and Personality Development", creditPoints: 1 },
+        //             { subject: "Probability and Random Processes", creditPoints: 4 }
+        //         ]
+        //     },
+        //     "3": {
+        //         "5": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "6": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "4": {
+        //         "7": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "8": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     }
+        // },
+        // "AGRI": {
+        //     "1": {
+        //         "1": [
+        //             { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
+        //             { subject: "Engineering Chemistry", creditPoints: 3 },
+        //             { subject: "English for Effective Communication	", creditPoints: 1 },
+        //             { subject: "Technical English-I", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C", creditPoints: 3 },
+        //             { subject: "Engineering Graphics", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-I", creditPoints: 4 },
+        //             { subject: "Engineering Physics", creditPoints: 3 }
+        //         ],
+        //         "2": [
+        //             { subject: "Environmental Science", creditPoints: 3 },
+        //             { subject: "Semiconductor Devices", creditPoints: 3 },
+        //             { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
+        //             { subject: "Electric Circuit Analysis", creditPoints: 3 },
+        //             { subject: "Soft Skills", creditPoints: 1 },
+        //             { subject: "Technical English-II", creditPoints: 3 },
+        //             { subject: "Engineering Practices Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-II", creditPoints: 4 },
+        //             { subject: "Applied Physics", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "2": {
+        //         "3": [
+        //             { subject: "Electronic Circuits - I", creditPoints: 3 },
+        //             { subject: "Digital Electronics", creditPoints: 3 },
+        //             { subject: "Signals and Systems", creditPoints: 4 },
+        //             { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Soft Skills Development", creditPoints: 1 },
+        //             { subject: "C++ and Data Structures", creditPoints: 3 },
+        //             { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
+        //             { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
+        //             { subject: "Constitution of India", creditPoints: 0 },
+        //             { subject: "Design of Applications in IoT", creditPoints: 0 }
+        //         ],
+        //         "4": [
+        //             { subject: "Electronic Circuits - II", creditPoints: 3 },
+        //             { subject: "Linear Integrated Circuits", creditPoints: 3 },
+        //             { subject: "Communication Theory", creditPoints: 3 },
+        //             { subject: "Control System Engineering", creditPoints: 3 },
+        //             { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
+        //             { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Electromagnetic Fields", creditPoints: 3 },
+        //             { subject: "Life Skills and Personality Development", creditPoints: 1 },
+        //             { subject: "Probability and Random Processes", creditPoints: 4 }
+        //         ]
+        //     },
+        //     "3": {
+        //         "5": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "6": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "4": {
+        //         "7": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "8": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     }
+        // },
+        // "MECH": {
+        //     "1": {
+        //         "1": [
+        //             { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
+        //             { subject: "Engineering Chemistry", creditPoints: 3 },
+        //             { subject: "English for Effective Communication	", creditPoints: 1 },
+        //             { subject: "Technical English-I", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C", creditPoints: 3 },
+        //             { subject: "Engineering Graphics", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-I", creditPoints: 4 },
+        //             { subject: "Engineering Physics", creditPoints: 3 }
+        //         ],
+        //         "2": [
+        //             { subject: "Environmental Science", creditPoints: 3 },
+        //             { subject: "Semiconductor Devices", creditPoints: 3 },
+        //             { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
+        //             { subject: "Electric Circuit Analysis", creditPoints: 3 },
+        //             { subject: "Soft Skills", creditPoints: 1 },
+        //             { subject: "Technical English-II", creditPoints: 3 },
+        //             { subject: "Engineering Practices Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-II", creditPoints: 4 },
+        //             { subject: "Applied Physics", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "2": {
+        //         "3": [
+        //             { subject: "Electronic Circuits - I", creditPoints: 3 },
+        //             { subject: "Digital Electronics", creditPoints: 3 },
+        //             { subject: "Signals and Systems", creditPoints: 4 },
+        //             { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Soft Skills Development", creditPoints: 1 },
+        //             { subject: "C++ and Data Structures", creditPoints: 3 },
+        //             { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
+        //             { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
+        //             { subject: "Constitution of India", creditPoints: 0 },
+        //             { subject: "Design of Applications in IoT", creditPoints: 0 }
+        //         ],
+        //         "4": [
+        //             { subject: "Electronic Circuits - II", creditPoints: 3 },
+        //             { subject: "Linear Integrated Circuits", creditPoints: 3 },
+        //             { subject: "Communication Theory", creditPoints: 3 },
+        //             { subject: "Control System Engineering", creditPoints: 3 },
+        //             { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
+        //             { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Electromagnetic Fields", creditPoints: 3 },
+        //             { subject: "Life Skills and Personality Development", creditPoints: 1 },
+        //             { subject: "Probability and Random Processes", creditPoints: 4 }
+        //         ]
+        //     },
+        //     "3": {
+        //         "5": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "6": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "4": {
+        //         "7": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "8": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     }
+        // },
+        // "CIVIL": {
+        //     "1": {
+        //         "1": [
+        //             { subject: "Physics and Chemistry Laboratory", creditPoints: 1 },
+        //             { subject: "Engineering Chemistry", creditPoints: 3 },
+        //             { subject: "English for Effective Communication	", creditPoints: 1 },
+        //             { subject: "Technical English-I", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C", creditPoints: 3 },
+        //             { subject: "Engineering Graphics", creditPoints: 3 },
+        //             { subject: "Structured Programming Using C Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-I", creditPoints: 4 },
+        //             { subject: "Engineering Physics", creditPoints: 3 }
+        //         ],
+        //         "2": [
+        //             { subject: "Environmental Science", creditPoints: 3 },
+        //             { subject: "Semiconductor Devices", creditPoints: 3 },
+        //             { subject: "Circuits and Devices Laboratory", creditPoints: 1 },
+        //             { subject: "Electric Circuit Analysis", creditPoints: 3 },
+        //             { subject: "Soft Skills", creditPoints: 1 },
+        //             { subject: "Technical English-II", creditPoints: 3 },
+        //             { subject: "Engineering Practices Laboratory", creditPoints: 1 },
+        //             { subject: "Mathematics-II", creditPoints: 4 },
+        //             { subject: "Applied Physics", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "2": {
+        //         "3": [
+        //             { subject: "Electronic Circuits - I", creditPoints: 3 },
+        //             { subject: "Digital Electronics", creditPoints: 3 },
+        //             { subject: "Signals and Systems", creditPoints: 4 },
+        //             { subject: "Analog and Digital Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Soft Skills Development", creditPoints: 1 },
+        //             { subject: "C++ and Data Structures", creditPoints: 3 },
+        //             { subject: "C++ and Data Structures Laboratory", creditPoints: 1 },
+        //             { subject: "Transforms and Partial Differential Equations", creditPoints: 4 },
+        //             { subject: "Constitution of India", creditPoints: 0 },
+        //             { subject: "Design of Applications in IoT", creditPoints: 0 }
+        //         ],
+        //         "4": [
+        //             { subject: "Electronic Circuits - II", creditPoints: 3 },
+        //             { subject: "Linear Integrated Circuits", creditPoints: 3 },
+        //             { subject: "Communication Theory", creditPoints: 3 },
+        //             { subject: "Control System Engineering", creditPoints: 3 },
+        //             { subject: "Electronic Circuits - II Laboratory", creditPoints: 1 },
+        //             { subject: "Linear Integrated Circuits Laboratory", creditPoints: 1 },
+        //             { subject: "Electromagnetic Fields", creditPoints: 3 },
+        //             { subject: "Life Skills and Personality Development", creditPoints: 1 },
+        //             { subject: "Probability and Random Processes", creditPoints: 4 }
+        //         ]
+        //     },
+        //     "3": {
+        //         "5": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "6": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     },
+        //     "4": {
+        //         "7": [
+        //             { subject: "Digital Communication", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers", creditPoints: 3 },
+        //             { subject: "Transmission Lines and Wave Guides", creditPoints: 3 },
+        //             { subject: "Internet of Things", creditPoints: 3 },
+        //             { subject: "Digital Signal Processing", creditPoints: 4 },
+        //             { subject: "Microprocessors and Microcontrollers Laboratory", creditPoints: 1 },
+        //             { subject: "Mini Project-I", creditPoints: 1 },
+        //             { subject: "Professional Skills Development", creditPoints: 1 },
+        //             { subject: "Universal Human Values 2: Understanding Harmony", creditPoints: 3 }
+        //         ],
+        //         "8": [
+        //             { subject: "Antenna and Wave Propagation", creditPoints: 3 },
+        //             { subject: "Basics of Biomedical Instrumentation", creditPoints: 3 },
+        //             { subject: "Computer Networks", creditPoints: 3 },
+        //             { subject: "Digital Image Processing Techniques", creditPoints: 3 },
+        //             { subject: "Employability Skills", creditPoints: 1 },
+        //             { subject: "Mini Project-II", creditPoints: 1 },
+        //             { subject: "Networks Laboratory", creditPoints: 1 },
+        //             { subject: "Principles of Management", creditPoints: 3 },
+        //             { subject: "VLSI Design", creditPoints: 3 },
+        //             { subject: "VLSI Design Laboratory", creditPoints: 3 }
+        //         ]
+        //     }
+        // }
     }
 };
 
@@ -952,7 +953,7 @@ function calculateCGPA() {
     }
 
     var cgpa = totalGradePoints / totalCreditPoints;
-    document.getElementById("cgpa-result").innerHTML = "<h3>Your CGPA is : " + cgpa.toFixed(3) + "</h3>";
+    document.getElementById("cgpa-result").innerHTML = "<h3>Your CGPA is : " + cgpa.toFixed(2) + "</h3>";
 }
 
 function resetInputs() {

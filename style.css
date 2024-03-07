@@ -76,6 +76,9 @@ button {
     margin-top: 10px;
 }
 
+.btn {
+    padding-bottom: 12px;
+}
 button:hover {
     background-color: #0056b3;
 }
@@ -102,10 +105,11 @@ td {
 }
 
 #cgpa-result {
-    margin-top: 20px;
-    padding: 10px;
+    width: 100%;
+    padding: 0.1px;
     border-radius: 5px;
     text-align: center;
+    background-color: #007bff;
 }
 
 .footer {
